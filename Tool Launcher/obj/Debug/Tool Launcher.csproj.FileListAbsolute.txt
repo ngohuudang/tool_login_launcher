@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\Tool Launcher.exe.config
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\Tool Launcher.exe
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\Tool Launcher.pdb
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\MetroFramework.dll
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool_Launcher.Form1.resources
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool_Launcher.Properties.Resources.resources
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csproj.CopyComplete
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.exe
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.pdb
+C:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\KAutoHelper.dll
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\Tool Launcher.exe.config
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\Tool Launcher.exe
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\Tool Launcher.pdb
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\KAutoHelper.dll
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\MetroFramework.dll
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\bin\Debug\MetroFramework.Fonts.dll
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csprojAssemblyReference.cache
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool_Launcher.Properties.Resources.resources
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csproj.GenerateResource.cache
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csproj.CoreCompileInputs.cache
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.csproj.CopyComplete
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.exe
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool Launcher.pdb
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\FoodAndPetFarms.Form2.resources
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\ChangeInfo.Form3.resources
+D:\Users\User\source\repos\Tool Launcher\Tool Launcher\obj\Debug\Tool_Launcher.Form1.resources
